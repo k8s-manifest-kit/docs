@@ -11,8 +11,10 @@ directory is intentionally not a Go module and is not installed with `go get`.
 - [`renderer-helm`](../renderer-helm)
 - [`renderer-kustomize`](../renderer-kustomize)
 - [`renderer-mem`](../renderer-mem)
+- [`renderer-olm-bundle`](../renderer-olm-bundle)
 - [`renderer-yaml`](../renderer-yaml)
 - [`renderer-gotemplate`](../renderer-gotemplate)
+- [`postrenderer-cert`](../postrenderer-cert)
 - [`examples`](../examples)
 
 Each module keeps its design and development guides beside its source. Start
